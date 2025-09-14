@@ -1,0 +1,52 @@
+[
+  {
+    "numberGoal": 15,
+    "numberReached": 12,
+    "goalDesc": "estudiar para final de base de datos"
+  },
+  {
+    "numberGoal": 25,
+    "numberReached": 18,
+    "goalDesc": "hacer ejercicio 5 días a la semana"
+  },
+  {
+    "numberGoal": 8,
+    "numberReached": 8,
+    "goalDesc": "leer 2 libros de programación"
+  },
+  {
+    "numberGoal": 30,
+    "numberReached": 22,
+    "goalDesc": "completar curso de JavaScript"
+  },
+  {
+    "numberGoal": 12,
+    "numberReached": 7,
+    "goalDesc": "practicar inglés conversacional"
+  },
+  {
+    "numberGoal": 20,
+    "numberReached": 20,
+    "goalDesc": "ahorrar dinero para vacaciones"
+  },
+  {
+    "numberGoal": 6,
+    "numberReached": 4,
+    "goalDesc": "aprender a tocar guitarra"
+  },
+  {
+    "numberGoal": 18,
+    "numberReached": 15,
+    "goalDesc": "escribir en diario personal"
+  },
+  {
+    "numberGoal": 10,
+    "numberReached": 6,
+    "goalDesc": "cocinar comidas saludables"
+  },
+  {
+    "numberGoal": 28,
+    "numberReached": 25,
+    "goalDesc": "meditar por las mañanas"
+  }
+]

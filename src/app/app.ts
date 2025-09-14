@@ -1,13 +1,12 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { GoalsPage } from "./pages/goals-page/goals-page";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, GoalsPage],
   template: `
-    @if (title()) {
-      <h1 class="text-3xl font-bold underline">Welcome to {{ title() }}!</h1>
-    }
+    <app-goals-page />
     <router-outlet />
   `,
   styles: [],

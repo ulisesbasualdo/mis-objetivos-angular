@@ -5,8 +5,9 @@ import { RouterOutlet } from '@angular/router';
   selector: 'app-root',
   imports: [RouterOutlet],
   template: `
-    <h1>Welcome to {{ title() }}!</h1>
-
+    @if (title()) {
+      <h1 class="text-3xl font-bold underline">Welcome to {{ title() }}!</h1>
+    }
     <router-outlet />
   `,
   styles: [],
